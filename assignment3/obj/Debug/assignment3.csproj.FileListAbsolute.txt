@@ -1,0 +1,14 @@
+C:\Users\akash.sinha\Desktop\assignments\assignment3\assignment3\obj\Debug\assignment3.csproj.CoreCompileInputs.cache
+C:\Users\akash.sinha\Desktop\assignments\assignment3\assignment3\bin\Debug\assignment3.exe.config
+C:\Users\akash.sinha\Desktop\assignments\assignment3\assignment3\bin\Debug\assignment3.exe
+C:\Users\akash.sinha\Desktop\assignments\assignment3\assignment3\bin\Debug\assignment3.pdb
+C:\Users\akash.sinha\Desktop\assignments\assignment3\assignment3\obj\Debug\assignment3.exe
+C:\Users\akash.sinha\Desktop\assignments\assignment3\assignment3\obj\Debug\assignment3.pdb
+C:\Users\akash.sinha\Desktop\assignments\assignment3\assignment3\obj\Debug\assignment3.csproj.AssemblyReference.cache
+D:\assignment3\assignment3\bin\Debug\assignment3.exe.config
+D:\assignment3\assignment3\bin\Debug\assignment3.exe
+D:\assignment3\assignment3\bin\Debug\assignment3.pdb
+D:\assignment3\assignment3\obj\Debug\assignment3.csproj.AssemblyReference.cache
+D:\assignment3\assignment3\obj\Debug\assignment3.csproj.CoreCompileInputs.cache
+D:\assignment3\assignment3\obj\Debug\assignment3.exe
+D:\assignment3\assignment3\obj\Debug\assignment3.pdb
